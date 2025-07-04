@@ -1,0 +1,85 @@
+body{
+  background-color: #5c556c;
+  height: 100vh;
+  display: flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.container{
+background-color:#2c2638;
+  width: 900px;
+  height: 600px;
+  display: flex;
+  border-radius: 10px;
+  
+  
+  
+
+}
+
+img{
+   width: 450px;
+   height: 540px;
+   border-radius:10px
+
+}
+
+.left-panel{
+ 
+  padding: 2rem 1rem 2rem 1rem;
+  align-content: end; 
+
+}
+
+.right-panel{
+
+  padding: 20px;
+
+  display: flex;
+  
+  
+
+ 
+  
+
+}
+
+
+input{
+  padding: 10px;
+  border-radius: 5px;
+  border: none;
+  margin-bottom: 10px;
+  background-color: #333;
+  /* color: white; */
+  width: 225px;
+
+}
+
+#Name{
+  width: 100px;
+}
+
+.input-row{
+ color: antiquewhite;
+
+}
+
+.checkbox {
+  margin: 10px 0;
+  font-size: 0.9rem;
+  display: flex;
+  width: 20px;
+  height: 20px;
+}
+
+
+#check{
+  
+  width: 15px;
+  height: 15px;
+}
+
+
+
